@@ -1,0 +1,14 @@
+﻿@using TravelWebSite.Models
+@model List<Blog>
+<div class="box1-left">
+	@foreach (var x in Model)
+	{
+		<div class="bot-img">
+			<img src="@x.BlogImage" alt="" style="width:300px; height:150px;" />
+		</div>
+		<div class="bot-desc1">
+			<p>@x.Description</p>
+		</div>
+		<div class="clear"></div>
+	}
+</div> 

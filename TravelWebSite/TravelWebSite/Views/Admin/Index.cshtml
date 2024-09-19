@@ -1,0 +1,30 @@
+﻿@using TravelWebSite.Models
+@model List<Blog>
+
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Blog List</h2>
+<br />
+<table class="table table-bordered">
+	<tr>
+		<td>ID</td>
+		<td>TITLE</td>
+		<td>DELETE</td>
+		<td>UPDATE</td>
+		<td>DETAİLS</td>
+	</tr>
+	@foreach (var x in Model)
+	{
+		<tr>
+			<td>@x.ID</td>
+			<td>@x.Title</td>
+			<td><a href="/Admin/BlogDelete/@x.ID" class="btn btn-danger">Delete</a></td>
+			<td><a href="/Admin/BlogGet/@x.ID" class="btn btn-warning">Update</a></td>
+			<td><a href="#" class="btn btn-default">Details</a></td>
+		</tr>
+	}
+</table>
+<a href="/Admin/NewBlog" class="btn btn-primary">Yeni Blog</a>

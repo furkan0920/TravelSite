@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebCalismalar\\TravelSite\\TravelWebSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F144F6A-B5B4-4C98-9D74-D1EFB4EDB3B4}|TravelWebSite\\TravelWebSite.csproj|d:\\webcalismalar\\travelsite\\travelwebsite\\travelwebsite\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F144F6A-B5B4-4C98-9D74-D1EFB4EDB3B4}|TravelWebSite\\TravelWebSite.csproj|solutionrelative:travelwebsite\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F144F6A-B5B4-4C98-9D74-D1EFB4EDB3B4}|TravelWebSite\\TravelWebSite.csproj|d:\\webcalismalar\\travelsite\\travelwebsite\\travelwebsite\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F144F6A-B5B4-4C98-9D74-D1EFB4EDB3B4}|TravelWebSite\\TravelWebSite.csproj|solutionrelative:travelwebsite\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F144F6A-B5B4-4C98-9D74-D1EFB4EDB3B4}|TravelWebSite\\TravelWebSite.csproj|D:\\WebCalismalar\\TravelSite\\TravelWebSite\\travelwebsite\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F144F6A-B5B4-4C98-9D74-D1EFB4EDB3B4}|TravelWebSite\\TravelWebSite.csproj|solutionrelative:travelwebsite\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F144F6A-B5B4-4C98-9D74-D1EFB4EDB3B4}|TravelWebSite\\TravelWebSite.csproj|D:\\WebCalismalar\\TravelSite\\TravelWebSite\\travelwebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F144F6A-B5B4-4C98-9D74-D1EFB4EDB3B4}|TravelWebSite\\TravelWebSite.csproj|solutionrelative:travelwebsite\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F144F6A-B5B4-4C98-9D74-D1EFB4EDB3B4}|TravelWebSite\\TravelWebSite.csproj|D:\\WebCalismalar\\TravelSite\\TravelWebSite\\travelwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F144F6A-B5B4-4C98-9D74-D1EFB4EDB3B4}|TravelWebSite\\TravelWebSite.csproj|solutionrelative:travelwebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F144F6A-B5B4-4C98-9D74-D1EFB4EDB3B4}|TravelWebSite\\TravelWebSite.csproj|D:\\WebCalismalar\\TravelSite\\TravelWebSite\\travelwebsite\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F144F6A-B5B4-4C98-9D74-D1EFB4EDB3B4}|TravelWebSite\\TravelWebSite.csproj|solutionrelative:travelwebsite\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1056,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "D:\\WebCalismalar\\TravelSite\\TravelWebSite\\TravelWebSite\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "TravelWebSite\\Controllers\\DefaultController.cs",
+              "ToolTip": "D:\\WebCalismalar\\TravelSite\\TravelWebSite\\TravelWebSite\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "TravelWebSite\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:53:25.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\WebCalismalar\\TravelSite\\TravelWebSite\\TravelWebSite\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "TravelWebSite\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\WebCalismalar\\TravelSite\\TravelWebSite\\TravelWebSite\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "TravelWebSite\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T19:23:07.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebCalismalar\\TravelSite\\TravelWebSite\\TravelWebSite\\Program.cs",
+              "RelativeDocumentMoniker": "TravelWebSite\\Program.cs",
+              "ToolTip": "D:\\WebCalismalar\\TravelSite\\TravelWebSite\\TravelWebSite\\Program.cs",
+              "RelativeToolTip": "TravelWebSite\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:08:38.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\WebCalismalar\\TravelSite\\TravelWebSite\\TravelWebSite\\Views\\LogIn\\Login.cshtml",
+              "RelativeDocumentMoniker": "TravelWebSite\\Views\\LogIn\\Login.cshtml",
+              "ToolTip": "D:\\WebCalismalar\\TravelSite\\TravelWebSite\\TravelWebSite\\Views\\LogIn\\Login.cshtml",
+              "RelativeToolTip": "TravelWebSite\\Views\\LogIn\\Login.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T19:04:24.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogInController.cs",
+              "DocumentMoniker": "D:\\WebCalismalar\\TravelSite\\TravelWebSite\\TravelWebSite\\Controllers\\LogInController.cs",
+              "RelativeDocumentMoniker": "TravelWebSite\\Controllers\\LogInController.cs",
+              "ToolTip": "D:\\WebCalismalar\\TravelSite\\TravelWebSite\\TravelWebSite\\Controllers\\LogInController.cs",
+              "RelativeToolTip": "TravelWebSite\\Controllers\\LogInController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwDcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:08:31.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\WebCalismalar\\TravelSite\\TravelWebSite\\TravelWebSite\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "TravelWebSite\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\WebCalismalar\\TravelSite\\TravelWebSite\\TravelWebSite\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "TravelWebSite\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:59:19.951Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
